@@ -1,5 +1,3 @@
-console.log('Hello World');
-
 var config = {
   canvasId: 'canvas',
   width: 1280,
